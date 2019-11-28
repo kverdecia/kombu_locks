@@ -19,7 +19,6 @@ test_requirements = [ ]
 setup(
     author="Karel Antonio Verdecia Ortiz",
     author_email='kverdecia@gmail.com',
-    python_requires='>=3.5',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
